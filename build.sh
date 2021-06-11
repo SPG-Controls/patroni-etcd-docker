@@ -1,0 +1,1 @@
+docker build -t spgcontrols/patroni-postgres:2.0.2-13.3 .
